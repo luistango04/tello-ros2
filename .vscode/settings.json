@@ -78,7 +78,9 @@
 		"shared_mutex": "cpp",
 		"valarray": "cpp",
 		"core": "cpp",
-		"specialfunctions": "cpp"
+		"specialfunctions": "cpp",
+		"compare": "cpp",
+		"concepts": "cpp"
 	},
 	"cmake.configureOnOpen": true
 }
